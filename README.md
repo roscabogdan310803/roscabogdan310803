@@ -1,5 +1,5 @@
 F# 💫 About Me:
-🔭 I'm currently working on becoming a full-stack developer.<br>👯 I’m looking to collaborate on as many projects as I can.<br>🤝 I’m looking for help with learning backend development.<br>🌱 I’m currently learning backend technologies.<br>💬 Ask me about why I started to become a developer.<br>⚡ Fun fact: I like CSS.
+🔭 I'm currently working on becoming a full-stack developer.<br>👯 I’m looking to collaborate on as many projects as I can.<br>🤝 I’m looking for help with learning backend development.<br>🌱 I’m currently learning backend technologies.<br>💬 Ask me about why I started to become a developer.<br>⚡ Fun fact: I like CSS and animatiions
 
 
 ## 🌐 Socials:
